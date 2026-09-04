@@ -1,4 +1,4 @@
-# LED-Matrix-Emoji-Display-System-with-Button-Control
+# Arduino LED Matrix Emoji Display
 
 An Arduino project that cycles through seven custom 8×8 emoji designs on a MAX7219 LED matrix when a push-button is pressed.
 
